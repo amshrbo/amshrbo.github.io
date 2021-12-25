@@ -17,5 +17,15 @@
  Usage:  virtualenv --python=/your/python/version/dir name_of_env</description>
     </item>
     
+    <item>
+      <title>About me</title>
+      <link>https://amshrbo.github.io/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amshrbo.github.io/about_me/</guid>
+      <description>Here is a quick intro about me My names is Ahmed Mohamed Elshrbiny, I&amp;rsquo;ve a BCs degree in Computer Science, I&amp;rsquo;m so passionate about technology related topics. Currently, I&amp;rsquo;m a Junior machine learning engineer with a good experience related to Software development in general.</description>
+    </item>
+    
+    
   </channel>
 </rss>
