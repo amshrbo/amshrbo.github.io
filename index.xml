@@ -1,48 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>amshrbo blog</title>
+    <title>amshrbo Blog</title>
     <link>https://amshrbo.github.io/</link>
-    <description>Recent content on amshrbo blog</description>
+    <description>Recent content on amshrbo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Dec 2021 20:39:28 +0200</lastBuildDate><atom:link href="https://amshrbo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notes on GANS</title>
-      <link>https://amshrbo.github.io/posts/third_post/</link>
-      <pubDate>Fri, 24 Dec 2021 20:39:28 +0200</pubDate>
-      
-      <guid>https://amshrbo.github.io/posts/third_post/</guid>
-      <description>Notes on the different implemenation of GAN  Note That I&amp;rsquo;ve used the mentioned pytorch example, and built the models gradually over it
- NOTES:
- I Didn&amp;rsquo;t manage to implement a full working version of specNorm to work with pytorch So I implemented a simpler numpy version of the spectral normalization algorithm. Based on my understanding after skimming the paper and after reading the mentioned code example. I used the mentioned specNorm implementation of pytorch to be able to integrate it with my model.</description>
-    </item>
-    
-    <item>
-      <title>This is just another post</title>
-      <link>https://amshrbo.github.io/posts/another_testing/</link>
-      <pubDate>Fri, 24 Dec 2021 20:33:50 +0200</pubDate>
-      
-      <guid>https://amshrbo.github.io/posts/another_testing/</guid>
-      <description>Another bold text
- with another list second item in this list third item here  import numpy as np items = [&amp;#39;hello&amp;#39;, &amp;#39;world&amp;#39;, &amp;#39;this&amp;#39;, &amp;#39;is&amp;#39;, &amp;#39;Ahmed&amp;#39;] for item in items: print(item) simple mathy text to check if it&amp;rsquo;s supported or not
-$ \large \alpha = 1e-2 $
-Ahmed Mohamed Elshrbiny</description>
-    </item>
-    
-    <item>
-      <title>This is just a post for testing</title>
-      <link>https://amshrbo.github.io/posts/testing_post/</link>
-      <pubDate>Fri, 24 Dec 2021 20:19:37 +0200</pubDate>
-      
-      <guid>https://amshrbo.github.io/posts/testing_post/</guid>
-      <description>Some heading 2 title A simple bold text
-$$ A simple math text $$
-print(&amp;#34;A simple python code&amp;#34;) A simple list of items:_
-  The first list we have.
- the first nested list    Second list
- item 1 item 2 item 3    Created by amShrbo</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://amshrbo.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
